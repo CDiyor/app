@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:467274bf867408c8cf552a0ebd454c36
+SUMMARY:Marie Beaute - 02/12/2024 11:00am
+DTSTAMP;TZID=America/Toronto:20241202T110000
+DTSTART;TZID=America/Toronto:20241202T110000
+DTEND;TZID=America/Toronto:20241202T120000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Marie Beaute \n\nAdresse du salon: 1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7 \n\nSalon phone: 438-234-8076 \n\nSalon email: MarieBeaute@business.ca \n\nServices réservés:\nLa Coiffure/Shampoing et brushing: 11:00am ➝ 12:00pm - Christian Max\n\nNotes de réservation:\nAucun\n\nStatut de la réservation: Confirmé
+LOCATION:1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7
+END:VEVENT
+END:VCALENDAR

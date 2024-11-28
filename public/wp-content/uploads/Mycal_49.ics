@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:870baa729bdd4d0ab9b95f93274c5929
+SUMMARY:Marie Beaute - 29/11/2024 10:00am
+DTSTAMP;TZID=America/Toronto:20241129T100000
+DTSTART;TZID=America/Toronto:20241129T100000
+DTEND;TZID=America/Toronto:20241129T110000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Marie Beaute \n\nAdresse du salon:  \n\nSalon phone: 438-234-8076 \n\nSalon email: dev-email@wpengine.local \n\nServices réservés:\nLa Coloration/Repousse: 10:00am ➝ 11:00am - Christian Max\n\nNotes de réservation:\nAucun\n\nStatut de la réservation: Confirmé
+END:VEVENT
+END:VCALENDAR

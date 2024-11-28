@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:b4eb531e1b3059e360a10458d3fe0e5d
+SUMMARY:Marie Beaute - 28/11/2024 9:30am
+DTSTAMP;TZID=+00:00:20241128T093000
+DTSTART;TZID=+00:00:20241128T093000
+DTEND;TZID=+00:00:20241128T100000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Marie Beaute \n\nSalon address:  \n\nSalon phone: 438-234-8076 \n\nSalon email: dev-email@wpengine.local \n\nBooked services:\nBeard Trim: 9:30am ➝ 9:30am - Mario\n\nBooking notes:\nNone\n\nBooking status: Paid
+END:VEVENT
+END:VCALENDAR

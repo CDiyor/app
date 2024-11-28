@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:db30213abf146c3576c2e32fedb9663b
+SUMMARY:MarieBeauteProjet - 28 Nov 2024 01:50
+DTSTAMP;TZID=+00:00:20241128T015000
+DTSTART;TZID=+00:00:20241128T015000
+DTEND;TZID=+00:00:20241128T020500
+X-ALT-DESC;FMTTYPE=text/html:Salon name: MarieBeauteProjet \n\nSalon address:  \n\nSalon phone:  \n\nSalon email: dev-email@wpengine.local \n\nBooked services:\n\nBooking notes:\nNone\n\nBooking status: Pending
+END:VEVENT
+END:VCALENDAR

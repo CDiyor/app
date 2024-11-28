@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:17e79bdc566194a74d8da3fc6a121a99
+SUMMARY:Marie Beaute - 19/12/2024 12:30pm
+DTSTAMP;TZID=America/Toronto:20241219T123000
+DTSTART;TZID=America/Toronto:20241219T123000
+DTEND;TZID=America/Toronto:20241219T133000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Marie Beaute \n\nAdresse du salon: 1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7 \n\nSalon phone: 438-234-8076 \n\nSalon email: MarieBeaute@business.ca \n\nServices réservés:\nLa Coloration/Gloss / Reflet: 12:30pm ➝ 1:30pm - Christian Max\n\nNotes de réservation:\nAucun\n\nStatut de la réservation: Confirmé
+LOCATION:1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7
+END:VEVENT
+END:VCALENDAR

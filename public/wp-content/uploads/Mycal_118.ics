@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:3b28c741873073b655d6d9d43285922c
+SUMMARY:Marie Beaute - 02/12/2024 12:30pm
+DTSTAMP;TZID=America/Toronto:20241202T123000
+DTSTART;TZID=America/Toronto:20241202T123000
+DTEND;TZID=America/Toronto:20241202T133000
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Marie Beaute \n\nAdresse du salon: 1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7 \n\nSalon phone: 438-234-8076 \n\nSalon email: MarieBeaute@business.ca \n\nServices réservés:\nLa Coloration/Gloss / Reflet: 12:30pm ➝ 1:30pm - Genevieve Blanchet\n\nNotes de réservation:\nAucun\n\nStatut de la réservation: Annulé
+LOCATION:1021 Mont-Royal Ave E\, Montreal\, Quebec H2J 1X7
+END:VEVENT
+END:VCALENDAR
